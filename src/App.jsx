@@ -7,6 +7,7 @@ function App(){
   return(
     <>
     <Login/>
+    <Car color={"nitin"}/>
     </>
   )
 }
