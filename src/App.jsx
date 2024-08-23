@@ -24,7 +24,7 @@ const App = () => {
     <Route path="/three" element={<Page3/>}/>
     <Route path="/four" element={<Page4/>}/>
     <Route path='/display_data' element={<Data/>}/>
-   </Routes> 
+    </Routes> 
     </BrowserRouter>
     </>
   );
